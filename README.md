@@ -4,7 +4,6 @@
 <center>
 <img src="https://1.bp.blogspot.com/-xzw_4BeBRaA/X7tf-gIfyAI/AAAAAAAAFSc/BYUQXlydn2kxRq7c_1WH9kZN4caJHD04wCNcBGAsYHQ/s1280/20201123_140823.png" href="https://gatorberkelas.blogspot.com" width="300"height="500"</img>
 </center>
-<br>
 
 ## List Program
 ```
@@ -28,9 +27,9 @@
 <br>
 
 ## Tutorial
-1). <a href="https://gatorberkelas.blogspot.com">Cara Menjalankan Program</a>
+1). <a href="https://gatorberkelas.blogspot.com/2020/10/cara-menjalankan-program-supertools.html">Cara Menjalankan Program SuperTools</a>
 <br>
-2). <a  href="https://gatorberkelas.blogspot.com">Fungsi Program</a>
+2). <a  href="https://gatorberkelas.blogspot.com/2020/11/fungsi-program-supertools-by-gator-bks.html">Fungsi Program SuperTools</a>
 
 <br>
 
