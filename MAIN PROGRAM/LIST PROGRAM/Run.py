@@ -212,7 +212,7 @@ def IP_Geolocation():
 	os.system(IP_GL)
 
 
-	def Subnetting_IP():
+def Subnetting_IP():
 	os.system(Clears)
 	print("\n")
 	print("\033[96m[\033[93m+\033[96m]\033[93m Sedang Mempersiapkan Tools Harap Tunggu Sebentar...")
